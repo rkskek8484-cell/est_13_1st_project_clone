@@ -19,13 +19,13 @@
 
 ### 1.2 👥 팀원
 
-| 이름   | 역할                                  | 주요 담당                                                                                                                                                           | GitHub                                            | 연락                        |
-| ------ | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | --------------------------- |
-| 최호찬 | 팀장,기획,발표,구현                   | 현황분석(웹표준&웹접근성) <br>벤치마킹 (트렌드)<br>section employment/section navigation. Section - Visual References for visual interest, Footer (Shared Component | [@alikerock](https://github.com/alikerock)        | (예) starhochan70@gmail.com |
-| 이성희 | 팀원,기획, 디자인, 구현, GIt 담당     | 현황분석(반응형)<br>벤치마킹(반응형 웹)<br>HERO section, HERO Mega Menu section, Frontend section                                                                   | [@xoxoworld](https://github.com/xoxoworld)        | sung021125@gmail.com        |
-| 맹예진 | 팀원, 기획, 디자인, 구현, 회의록 작성 | 현황분석(경제성)<br>벤치마킹 (비주얼)<br>Section features, Section company, Section differentiation, Section job status, Section portfolio                          | [@rkskek8484-cell](https://github.com/jiwoo-park) | rkskek8484@gmail.com        |
-| 장진혁 | 팀원,기획, 디자인, 구현, 회의록 작성  | 현황분석(심미성 독창성 ) <br>벤치마킹(UX/UI)<br>Section testimonial, Section lecture, Section Curriculum, Section instructors                                       | [@wwg98](https://github.com/jiwoo-park)           | wwwg98@gmail.com            |
-| 주성문 | 팀원, 기획, 디자인, 구현, 피그마 담당 | 현황분석(합목적성)<br>벤치마킹(내용)<br>Student Benefits Section, Section - Recruitment Overview, Section - FAQ                                                     | [@KimShueBang](https://github.com/jiwoo-park)     | enforhssh@gmail.com         |
+| 이름   | 역할                                  | 주요 담당                                                                                                                                                           | GitHub                                                 | 연락                        |
+| ------ | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------- |
+| 최호찬 | 팀장,기획,발표,구현                   | 현황분석(웹표준&웹접근성) <br>벤치마킹 (트렌드)<br>section employment/section navigation. Section - Visual References for visual interest, Footer (Shared Component | [@starhochan70](https://github.com/starhochan70)       | (예) starhochan70@gmail.com |
+| 이성희 | 팀원,기획, 디자인, 구현, GIt 담당     | 현황분석(반응형)<br>벤치마킹(반응형 웹)<br>HERO section, HERO Mega Menu section, Frontend section                                                                   | [@xoxoworld](https://github.com/xoxoworld)             | sung021125@gmail.com        |
+| 맹예진 | 팀원, 기획, 디자인, 구현, 회의록 작성 | 현황분석(경제성)<br>벤치마킹 (비주얼)<br>Section features, Section company, Section differentiation, Section job status, Section portfolio                          | [@rkskek8484-cell](https://github.com/rkskek8484-cell) | rkskek8484@gmail.com        |
+| 장진혁 | 팀원,기획, 디자인, 구현, 회의록 작성  | 현황분석(심미성 독창성 ) <br>벤치마킹(UX/UI)<br>Section testimonial, Section lecture, Section Curriculum, Section instructors                                       | [@wwg98](https://github.com/wwg98)                     | wwwg98@gmail.com            |
+| 주성문 | 팀원, 기획, 디자인, 구현, 피그마 담당 | 현황분석(합목적성)<br>벤치마킹(내용)<br>Student Benefits Section, Section - Recruitment Overview, Section - FAQ                                                     | [@KimShueBang](https://github.com/KimShueBang)         | enforhssh@gmail.com         |
 
 ### 1.3 🗓️ 마일스톤
 
@@ -142,7 +142,7 @@ gantt
 
 #### Frontend
 
-- **Styling**: CSS Modules / Tailwind CSS
+- **Styling**: CSS Modules
 
 #### Tools
 
