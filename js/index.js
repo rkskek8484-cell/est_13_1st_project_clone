@@ -2,6 +2,12 @@ const popup = document.querySelector("#popup");
 const popupCloseBtn = popup.querySelector("button");
 const agree = document.querySelector("#agree");
 
+function createCookie(name, value, expire) {
+  let today = new Date();
+  today.setDate(today.getDate() + expire);
+  document.cookie = `${name}=${value}; Expires=${today.toString()}`;
+}
+
 if (document.cookie.includes("popup=닫기")) {
   popup.close();
 } else {
@@ -16,9 +22,3 @@ popupCloseBtn.addEventListener("click", () => {
     createCookie("popup", "닫기", -1);
   }
 });
-
-function createCookie(name, value, expire) {
-  let today = new Date();
-  today.setDate(today.getDate() + expire);
-  document.cookie = `${name}=${value}; Expires=${today.toString()}`;
-}
